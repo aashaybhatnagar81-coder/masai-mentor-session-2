@@ -56,7 +56,7 @@ def subtract_numbers(a, b):
         6
     """
     # BUG: This is doing addition, not subtraction!
-    return a + b  # ← Fix this line!
+    return a - b  # ← Fix this line!
 
 
 def multiply_numbers(a, b):
